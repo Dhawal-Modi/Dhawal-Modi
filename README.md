@@ -1,4 +1,4 @@
-## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=460&size=30&pause=1000&color=DB38F7&center=true&vCenter=true&multiline=true&random=false&width=990&height=100&lines=Hello+there!+;My+name+is+Dhawal!+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 <!--
 **Dhawal-Modi/Dhawal-Modi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

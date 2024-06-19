@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <p align="left">
 I'm currently pursuing a Master of Science in Electrical Engineering & Computer Science (MS EECS) at the University of California, Merced. 
  
-Before starting my MS, I completed my Bachelor of Engineering in Electronics & Communications Engineering at RGPV-UIT in India.  During my undergraduate studies, I my coursework included , <b> Digital Circuits, Design & Analysis of Algorithms, Internet of Things, Computer Architecture, Computer Networks, Operating Systems, Software Engineering, Statistics, Microwave Engineering</b>. 
+Before starting my MS, I completed my Bachelor of Engineering in Electronics & Communications Engineering at RGPV-UIT in India.  During my undergraduate studies, my coursework included , <b> Digital Circuits, Design & Analysis of Algorithms, Internet of Things, Computer Architecture, Computer Networks, Operating Systems, Software Engineering, Statistics, Microwave Engineering</b>. 
 
 ##  **Work Experience:**
 In terms of work experience, I had the opportunity to work as a <b>Backend Software Engineer at Tata Consultancy Services Limited</b>.  I contributed to integrating various payment settling systems like Direct Debit, Credit Transfers and E-Mandates, streamlining payment processes,  reducing transaction settlement times. Moreover, I orchestrated the deployment of mock webservices using Spring Boot applications using Scrum, Agile Methodology, Java, and Maven.

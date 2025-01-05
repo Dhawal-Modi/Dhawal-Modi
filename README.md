@@ -44,6 +44,7 @@ Another recent project that i completed was LLM Prompt prediction. The goal of t
 - **ML Frameworks**: PyTorch, Seaborn, Scikit-learn, NumPy, Pandas, Keras, TensorFlow
 
 ##  **Hackathon Experience:**
+- Won 2nd prize (worth $5000) in Sentient's Werewolf AGI-thon for developing a Llama 2 70B agent capable of playing the social deduction game of Werewolf.
 - Won 1st prize nationwide in Smart India Hackathon 2018 (Hardware Editon) for developing a Computer Vision based real-time road traffic mangement system.
 - Was selected in top 5 teams natiowide in TCS Finorama Fintech challenge 2018.
 

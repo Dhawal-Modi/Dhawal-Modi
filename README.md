@@ -23,19 +23,19 @@ Here are some ideas to get you started:
 </p> -->
 
 <p align="left">
-I'm currently pursuing a Master of Science in Electrical Engineering & Computer Science (MS EECS) at the University of California, Merced. 
- 
-Before starting my MS, I completed my Bachelor of Engineering in Electronics & Communications Engineering at RGPV-UIT in India.  During my undergraduate studies, my coursework included , <b> Digital Circuits, Design & Analysis of Algorithms, Internet of Things, Computer Architecture, Computer Networks, Operating Systems, Software Engineering, Statistics, Microwave Engineering</b>. 
+Currently an MLE at Kaiser Permanente Division of Research working on AI enablement for Cardiovascular health.
+
+Master of Science in Electrical Engineering & Computer Science (MS EECS) from University of California, Merced. Before starting my MS, I completed my Bachelor of Engineering in Electronics & Communications Engineering at RGPV-UIT in India.  During my undergraduate studies, my coursework included , <b> Digital Circuits, Design & Analysis of Algorithms, Computer Architecture, Computer Networks, Operating Systems, Software Engineering, Statistics, Microwave Engineering</b>. 
 
 ##  **Work Experience:**
 In terms of work experience, I had the opportunity to work as a <b>Backend Software Engineer at Tata Consultancy Services Limited</b>.  I contributed to integrating various payment settling systems like Direct Debit, Credit Transfers and E-Mandates, streamlining payment processes,  reducing transaction settlement times. Moreover, I orchestrated the deployment of mock webservices using Spring Boot applications using Scrum, Agile Methodology, Java, and Maven.
 
-I also am currently working as a Graduate Student Researcher in UC Merced's <a href="https://www.mocalab.org/moca-lab"> MoCA Lab </a>. My work in the lab includes developing and optimizing Deep Learning vision algrorithms for use on the Nvidia Orin AGX embedded platform.
+During my MS I was a Graduate Student Researcher in UC Merced's <a href="https://www.mocalab.org/moca-lab"> MoCA Lab </a>. My work in the lab included developing and optimizing vision models for Nvidia Orin AGX embedded platform.
 
 ##  **Projects:**
-A project I'm proud of is <b>"Efficient Person Following Robot algorithms</b>", where I am developing an architecture for person following and tracking using Pose estimation and Person detection. I am currently optimizing current SOTA methods to work efficiently on embedded platforms like Nvidia Orin AGX.
+A project I'm proud of is <b>"Efficient Person Following Robot algorithms</b>", where I am designed and developed an architecture for person following and tracking using Pose estimation and Person detection.
 
-Another recent project that i completed was LLM Prompt prediction. The goal of this project was to predict a prompt, ⟨Rewrite Prompt⟩, that was used to generate ⟨Rewritten Text⟩ by providing only ⟨Original Text⟩-⟨Rewritten Text⟩ pairs to the LLM. At inference, it predicts an embedding using the ⟨Original Text⟩ and the ⟨Rewritten Text⟩. The finetuned models ranked 986 out of 2186. The best leaderboard score was our Phi-2 submission which scored 0.6188. The Mixtral 8x7B model finetuned with 1000 samples scored 0.6056 and Gemma 7B finetuned with 5000 samples scored 0.5981. 
+On LLMs side a project that I completed was LLM Prompt prediction. The goal of this project was to predict a prompt, ⟨Rewrite Prompt⟩, that was used to generate ⟨Rewritten Text⟩ by providing only ⟨Original Text⟩-⟨Rewritten Text⟩ pairs to the LLM. At inference, it predicts an embedding using the ⟨Original Text⟩ and the ⟨Rewritten Text⟩. The finetuned models ranked 986 out of 2186. The best leaderboard score was our Phi-2 submission which scored 0.6188. The Mixtral 8x7B model finetuned with 1000 samples scored 0.6056 and Gemma 7B finetuned with 5000 samples scored 0.5981. 
 
 ## Technical Skills
 - **Programming Languages & Databases**: Python, Java, HTML, CSS, JavaScript, C, C++, SQL, Postgre SQL, Oracle SQL, IBM Db2
@@ -51,7 +51,7 @@ Another recent project that i completed was LLM Prompt prediction. The goal of t
 ##  **Extracurricular Activities:**
 - Served as a Teaching Assistant for CSE 015: Discrete Mathematics at UC Merced, where i conducted and managed labs for 90 undergradute students.
 
-Please feel free to get in touch with me, I'm excited to connect and collaborate in Software developement, machine learning, and beyond.
+Please feel free to get in touch with me, I'm excited to connect and collaborate in Machine learning, and beyond.
 
 
 ## My GitHub Stats
